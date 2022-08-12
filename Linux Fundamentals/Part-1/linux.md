@@ -3,7 +3,7 @@ Just like Windows, iOS and MacOS, Linux is just another operating system and one
 
 # Basic Commands
 ``` bash
-echo "Hello World";
+echo "Hello World"
 # print Hello World
 
 whoami
